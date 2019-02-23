@@ -28,3 +28,6 @@ function removeLastKitten(){
   
 }
 
+function removeFirstKitten(){
+  
+}
